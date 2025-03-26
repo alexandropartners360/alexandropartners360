@@ -1,4 +1,7 @@
 # Repositório de Códigos - Análise de Dados e Inovação - Partners Comunicação
+![LogoPartners-01](https://github.com/user-attachments/assets/1ab8c563-6a85-44c8-ac19-8917814eeab6)
+
+
 
 Bem-vindo(a) ao meu repositório de códigos! Aqui você encontrará os projetos e scripts desenvolvidos no meu trabalho como Analista de Dados e Inovação na Partners Comunicação.
 
